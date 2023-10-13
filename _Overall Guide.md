@@ -21,6 +21,7 @@
 -   Add TypeScript in the future;
 -   Add Material Design content from the youtube channel
 -   Make general questions for each technology for knowledge and interviews
+-   Add a way to my page for contacting me if there is any gramatical or functional issue
 
 ## Main Parts
 
@@ -29,46 +30,44 @@
 -   ✅ Introduction
 -   ✅ Code editors
 -   ✅ Markdown
--   ✅ Organizational Structure for Compiling Content
--   About Internet
+-   ✅ Content Compilation and Organization
+-   Internet
 -   Terminal
 -   ✅ HTML
--   ✅ Emmet
 -   ✅ CSS
+-   ✅ Emmet
 -   ✅ JavaScript
--   Git
--   CSS Frameworks
--   JavaScript Frameworks
--   Package managers
--   Compilation tools
--   CSS Preprocessors
--   CSS Postprocessors
 -   ✅ JQuery
--   WebPack
+-   ✅ Git
+-   JavaScript Compilation
+-   JavaScript Frameworks
+-   CSS Frameworks
+-   CSS Processing
+-   Figma
 
 ### Future Backend:
 
+-   About Internet
+-   Code editors
+-   Terminal
 -   Relational databases
 -   No Relational databases
+-   Git
 -   Back-end Programming Languages
 -   Back-end SQL Frameworks
 -   Back-end ORM Frameworks
+-   Back-end Security
 
 ### Extras
 
 -   Web Security
--   Extra Tools
--   Resources
--   Exercises and Projects
--   Web Procedure
 -   SEO
+-   Extra Tools
+-   Web Procedure
 -   CV
 -   Interview Preparation
-
--   How to use Chat GPT and other tools for web development
--   Section with all the references and links
--   Section of tips and tricks
--   Section with different exercises
+-   Exercises and Projects
+-   Resources
 
 ### Only in Spanish
 
@@ -77,80 +76,61 @@
 ### Todo List of Each Section:
 
 -   #### Introduction
-
-    -   Quitar TypeScript
-    -   Agregar https://web.dev/
-    -   Agregar Figma
-    -   Agregar DevDocs
-    -   Agregar diseño web
-    -   Cambiar las opciones opcionales y especificar que son para mas oportunidades laborales
-    -   Cambiar los 6 sin embargos
-    -   Cambiar algunas tecnologias a opcionales
-
+    -   Agregar https://developer.chrome.com/docs/devtools/ (es, en)
+    -   Cambia los titulos de las secciones a mas simples (es)
 -   #### Code editors
-
-    -   Agregar imagenes explicativas
-    -   Agregar parte de "Find all references" y "Rename Symbol"
-    -   Agregar parte de Tasks personalizados (Comandos de la terminal personalizados)
-    -   Agregar Extensiones propias
-    -   Comprobar si los atajos recomendados se entienden
-    -   Agregar atajo Ctrl + X y al pegar texto
-
--   #### Organizational Structure for Compiling Content
-
-    -   Agregar imagenes explicativas
-
+    -   Revisar y remplazar video jonmircha (es)
+    -   Agregar video tutorial (en)
+-   #### Markdown
+    -   Agregar video tutorial (en)
+    -   Agregar recursos guia (en)
+-   #### Content Compilation and Organization
+    -   Cambiar para la creación de archivos (es)
+    -   Añadir imagenes explicativas a la recapitulación (es, en)
+    -   Cambiar parte de donde guardar los archivos Markdown (es)
+    -   Agrega vídeo tutorial para Mega (en)
+    -   Cambiar mención y explicación de ChatGPT (es)
+    -   Remover DeepL (es)
+    -   Especificar videos de YouTube (es)
+    -   Recalcar al principio que es opcional lo de guardar videos de programación
 -   #### HTML
-
-    -   Revisar esta pagina: https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t
-    -   Agregar posible contenido de Web.Dev
-    -   Actualizar los consejos con imagenes, mas videos o codigo
-    -   Agregar proyectos de ejemplo
-    -   Consejo de poner la etiqueta script al final de tu pagina
-
+    -   Cambiar Introduccion (es)
+    -   Cambiar consejo del live server en telefono (es)
+    -   Especifar ultima parte de lo del favicon (es)
+    -   Cambiar la necesidad de la etiqueta title y subsecuentess (es)
+    -   Cambiar la parte page speed insights y caniuse a recursos (es, en)
+    -   Agregar video tutorial (en)
+    -   Agregar cdn video (en)
 -   #### CSS
-
-    -   Revisar esta pagina: https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t
-    -   Agregar posible contenido de Web.Dev
-    -   Agregar posible contenido de https://utopia.fyi/blog
-    -   Actualizar los consejos con imagenes, mas videos o codigo
-    -   Agregar proyectos de ejemplo
-    -   Agregar CSS Overview
-    -   Sacar estilos por defecto y hablar de los estilos de reseteo
-    -   Dividir la fuente de Bennet Feely
-    -   Agregar forma de cambiar entre sistemas de colores presionando el valor en el input de color en VSCode
-    -   Agregar Scroll Margin Top
-
+    -   Cambia la descripcion en cascada y lo de abajo (es)
+    -   Agregar video tutorial (en)
+    -   Agregar ejercicios (en, es)
+    -   Cambiar la parte de caniuse a recursos (es, en)
 -   #### Emmet
-
-    -   Crear apuntes de abreviaciones
-
+    -   Revisar y remplazar video jonmircha (es)
+    -   Agregar video tutorial (en)
 -   #### JavaScript
-
-    -   Agregar JSLint
-    -   Agregar (Programar de manera escalable (programacion funcional)) en consejos
-    -   Agregar (Utiliza la función "Timer" de Firebug para optimizar tu código) en consejos
-    -   Agregar swap de valores con destructuracion de arreglos
-    -   Agregar como hacer copia de arreglos 2D con array.slice()
-    -   Agregar recursion
-    -   Agregar funcion que retorne una funcion
-    -   Agregar array.toSorted() y array.toReversed()
-
+    -   Agregar video tutorial (en)
+    -   Agregar mas recursos (es, en)
+    -   Agregar video sobre let y var (en)
+    -   Agregar video sobre recursion (en)
+-   #### Jquery
 -   #### Git
-
-    -   Agregar mi inicializacion de proyectos con git
-    -   Agregar como nombrar etiquetas
-    -   Agregar como crear repositorios privados
-
+    -   Verificación para un solo directorio (es, en)
+    -   Quitar ultima frase de la sección de introducción (es)
+    -   Agregar video tutoriales de la diferencia y explicación de cada plataforma (en)
+    -   Agregar recursos (en, es)
+    -   Subrayar GitHub en pasos (es)
+-   #### JavaScript Frameworks
+    -   Agregar JavaScript Mastery
 -   #### CSS Preprocessors & Postprocessors
-
     -   Abuso de nesting en preprocesadores
-
+    -   Agregar Airbnb Styleguide
+-   #### WebPack
+    -   Agregar PWA
 -   #### Web Procedure
-
     -   Calibrar tiempo dedicado a cada proyecto
     -   Definir el orden de creacion de un proyecto asi: contenido, diseño, codigo
-
 -   #### Interview Preparation
     -   Tech Interview Handbook: https://www.techinterviewhandbook.org
     -   Front End Interview Handbook: https://www.frontendinterviewhandbook.com

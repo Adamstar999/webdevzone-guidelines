@@ -1,4 +1,4 @@
-# Estructura de la recopilación del contenido.
+# Organización y Recopilación de Contenido
 
 Para estudiar cualquier materia de manera efectiva, es fundamental capturar y registrar los aspectos más relevantes que necesitarás conocer y aplicar. Si descuidas tomar notas de los conceptos generales, con el tiempo se desvanecerán de tu memoria y cuando llegue el momento de aplicar ese conocimiento, te resultará difícil recordar cómo hacerlo correctamente. Por lo tanto, es esencial recopilar lo más crucial.
 
@@ -6,9 +6,11 @@ Para recopilar de manera eficiente datos importantes, consejos, trucos y método
 
 A la hora de organizar y guardar el contenido de cursos de programación, lenguajes o herramientas que involucran la creación de archivos, debes crear una carpeta. Esta carpeta puede ser general para el aprendizaje de programación o específica para cada curso, y es donde guardarás el código correspondiente.
 
-Para cada curso, toma nota de los consejos, comandos y explicaciones relevantes en un archivo de texto, preferentemente en formato **Markdown**. Estos archivos deben ser guardados en una carpeta separada de la del código del curso. Además de las guías, esta carpeta puede contener otros recursos como instrucciones de inicialización de proyectos, tus proyectos personales, etc. Puedes anotar todo en el formato de texto que prefieras, pero te recomiendo encarecidamente usar **Markdown**, ya que es ampliamente utilizado en programación debido a su similitud con la sintaxis HTML y su eficiencia. Te comento más acerca de los beneficios en la sección sobre el formato **Markdown**.
+Para cada curso, toma nota de los consejos, comandos y explicaciones relevantes en un archivo de texto, preferentemente en formato **Markdown**. Estos archivos deben ser guardados en una carpeta separada de la del código del curso. Puedes anotar todo en el formato de texto que prefieras, pero te recomiendo encarecidamente usar **Markdown**, ya que es ampliamente utilizado en programación debido a su similitud con la sintaxis HTML y su eficiencia. Te comento más acerca de los beneficios en la sección sobre el formato **Markdown**. Considera tambien guardar elementos extra, como imágenes, estilos y fragmentos de código reutilizables.
 
-También, es fundamental organizar los ejercicios y proyectos de práctica en una carpeta específica. Asimismo, crea una carpeta de proyectos destinados a tu portafolio, proyectos más serios y con una base sólida. Considera guardar elementos extra, como imágenes, estilos y fragmentos de código reutilizables, en una carpeta adicional. Esta última carpeta puede servir como un espacio para elementos que no encajen en otras categorías.
+También, es fundamental organizar los ejercicios y proyectos de práctica en una carpeta específica. Asimismo, crea una carpeta de proyectos destinados a tu portafolio, proyectos más serios y con una base sólida.
+
+Así que, resumiendo, es recomendable tener una carpeta para el código de los cursos, otra para el código de tus proyectos y ejercicios, y una última carpeta para las guías de texto y otros archivos adicionales que sirvan como referencia y recordatorio.
 
 Te sugiero mantener los archivos de programación sincronizados en la nube (si no son demasiado pesados). De esta manera, los cambios se guardarán automáticamente y si surge algún problema con tu computadora, podrás recuperar los datos sin inconvenientes. Puedes elegir cualquier servicio de almacenamiento en la nube; personalmente recomiendo **Mega**, que ofrece 50 GB gratuitos por cuenta y permite sincronización personalizada desde el principio. Si no sabes cómo ajustar archivos y carpetas específicas con **Mega**, aquí tienes un video-tutorial exacto sobre cómo hacerlo: **https://www.youtube.com/watch?v=Y9g3bnrYUuQ**
 
