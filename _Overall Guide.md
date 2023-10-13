@@ -90,7 +90,7 @@
     -   Cambiar parte de donde guardar los archivos Markdown (es)
     -   Agrega vídeo tutorial para Mega (en)
     -   Cambiar mención y explicación de ChatGPT (es)
-    -   Remover DeepL (es)
+    -   Remover Deepl (es)
     -   Especificar videos de YouTube (es)
     -   Recalcar al principio que es opcional lo de guardar videos de programación
 -   #### HTML
