@@ -32,14 +32,14 @@
 -   ✅ Markdown
 -   ✅ Content Compilation and Organization
 -   Internet
--   Terminal
+-   ✅ Terminal
 -   ✅ HTML
 -   ✅ CSS
 -   ✅ Emmet
 -   ✅ JavaScript
 -   ✅ JQuery
 -   ✅ Git
--   JavaScript Compilation
+-   ✅ JavaScript Compilation
 -   JavaScript Frameworks
 -   CSS Frameworks
 -   CSS Processing
@@ -77,10 +77,14 @@
 
 -   #### Introduction
     -   Agregar https://developer.chrome.com/docs/devtools/ (es, en)
+    -   Agregar Full Stack Open
     -   Cambia los titulos de las secciones a mas simples (es)
+-   #### Terminal
+    -   Revisar el truco de la primera seccion (es, en)
 -   #### Code editors
     -   Revisar y remplazar video jonmircha (es)
     -   Agregar video tutorial (en)
+    -   Cambiar origen de la imagen (en, es)
 -   #### Markdown
     -   Agregar video tutorial (en)
     -   Agregar recursos guia (en)
@@ -121,13 +125,18 @@
     -   Agregar video tutoriales de la diferencia y explicación de cada plataforma (en)
     -   Agregar recursos (en, es)
     -   Subrayar GitHub en pasos (es)
+-   #### JavaScript Compilation
+    -   Agregar contenido de la guia de Webpack (en, es)
+    -   Agregar video de Webpack (en)
+    -   Agregar video de herramientas (en)
+    -   Buscar videos para npm (es, en)
+    -   Buscar videos para Node (es, en)
+    -   Agregar PWA (es, en)
 -   #### JavaScript Frameworks
-    -   Agregar JavaScript Mastery
+    -   Agregar JavaScript Mastery (en)
 -   #### CSS Preprocessors & Postprocessors
     -   Abuso de nesting en preprocesadores
     -   Agregar Airbnb Styleguide
--   #### WebPack
-    -   Agregar PWA
 -   #### Web Procedure
     -   Calibrar tiempo dedicado a cada proyecto
     -   Definir el orden de creacion de un proyecto asi: contenido, diseño, codigo
