@@ -12,12 +12,9 @@
 
 ### Content:
 
--   Add a way to add several videos to the page;
 -   Add a Part to the web design;
 -   Add to all links the name of the video or the name of the page;
 -   Add FreeCodeCamp Certificates to the sections;
--   Add a part of a conclusion and introduction on each section;
--   Add to every section Projects or mini-Projects
 -   Add TypeScript in the future;
 -   Add Material Design content from the youtube channel
 -   Make general questions for each technology for knowledge and interviews
@@ -31,8 +28,8 @@
 -   ✅ Code editors
 -   ✅ Markdown
 -   ✅ Content Compilation and Organization
--   Internet
 -   ✅ Terminal
+-   Internet
 -   ✅ HTML
 -   ✅ CSS
 -   ✅ Emmet
@@ -40,10 +37,10 @@
 -   ✅ JQuery
 -   ✅ Git
 -   ✅ JavaScript Compilation
--   JavaScript Frameworks
--   CSS Frameworks
+-   ✅ JavaScript Frameworks
+-   ✅ CSS Frameworks
 -   CSS Processing
--   Figma
+-   ⏸ Figma
 
 ### Future Backend:
 
@@ -62,7 +59,6 @@
 
 -   Web Security
 -   SEO
--   Extra Tools
 -   Web Procedure
 -   CV
 -   Interview Preparation
@@ -79,6 +75,8 @@
     -   Agregar https://developer.chrome.com/docs/devtools/ (es, en)
     -   Agregar Full Stack Open
     -   Cambia los titulos de las secciones a mas simples (es)
+    -   Fusionar las secciones de Code Editors, Terminal y Markdown
+    -   Fusionar jQuery con JavaScript Frameworks
 -   #### Terminal
     -   Revisar el truco de la primera seccion (es, en)
 -   #### Code editors
@@ -128,15 +126,25 @@
 -   #### JavaScript Compilation
     -   Agregar contenido de la guia de Webpack (en, es)
     -   Agregar video de Webpack (en)
-    -   Agregar video de herramientas (en)
+    -   Agregar video de diferentes herramientas (en)
     -   Buscar videos para npm (es, en)
     -   Buscar videos para Node (es, en)
     -   Agregar PWA (es, en)
 -   #### JavaScript Frameworks
-    -   Agregar JavaScript Mastery (en)
+    -   Agregar video sobre diferencias de cada framework (en, es)
+    -   Agregar curso de React (es, en)
+    -   Agregar videos sobre React (en, es)
+    -   Agregar curso de Vue.js (en, es)
+    -   Agregar curso de Angular (en, es)
+    -   Agregar curso de Svelte (en, es)
+-   #### CSS Frameworks
+    -   Agregar cursos de Bulma, Foundation, Bootstrap y Tailwing (es, en)
+    -   Agregar ejercicios de Bulma, Foundation, Bootstrap y Tailwing (es, en)
+    -   Agregar recuros (es, en)
+    -   Agregar buenas practicas (es, en)
 -   #### CSS Preprocessors & Postprocessors
-    -   Abuso de nesting en preprocesadores
-    -   Agregar Airbnb Styleguide
+    -   Abuso de nesting en preprocesadores (en es)
+    -   Agregar Airbnb Styleguide (es, en)
 -   #### Web Procedure
     -   Calibrar tiempo dedicado a cada proyecto
     -   Definir el orden de creacion de un proyecto asi: contenido, diseño, codigo

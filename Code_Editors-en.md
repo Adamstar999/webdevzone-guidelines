@@ -19,6 +19,8 @@ There are numerous code editors in the programming field, giving you the freedom
 -   For a complete reference of keyboard shortcuts in **Visual Studio Code**, refer to this image:
     ![VSCode Shortcuts](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png).
 
+## Tips, Tricks, and Best Practices
+
 -   Here's a summarized table of very useful keyboard shortcuts that will optimize the usage of **Visual Studio Code**:
 
     | Shortcut                              | Action                                      |

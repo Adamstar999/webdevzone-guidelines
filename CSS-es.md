@@ -183,6 +183,7 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES](https://www.youtube.com/watch?v=HH_SMpxV7qQ)**
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES #2](https://www.youtube.com/watch?v=1Lv8mJczfpg)**
 -   **[Peaky blinders-page con Html y Css](www.youtube.com/watch?v=ArhSODreNHc)**
+-   **[FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
 <!-- Mi copia de Super Mario Bros Wonder -->
 
 ## Conclusión
