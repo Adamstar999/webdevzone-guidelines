@@ -29,7 +29,7 @@
 -   ✅ Markdown
 -   ✅ Content Compilation and Organization
 -   ✅ Terminal
--   Internet
+-   ⏸ Internet
 -   ✅ HTML
 -   ✅ CSS
 -   ✅ Emmet
@@ -39,7 +39,7 @@
 -   ✅ JavaScript Compilation
 -   ✅ JavaScript Frameworks
 -   ✅ CSS Frameworks
--   CSS Processing
+-   ⏸ CSS Processing
 -   ⏸ Figma
 
 ### Future Backend:
@@ -57,11 +57,11 @@
 
 ### Extras
 
--   Web Security
--   SEO
--   Web Procedure
--   CV
--   Interview Preparation
+-   ⏸ Web Security
+-   ⏸ SEO
+-   ⏸ Web Procedure
+-   ⏸ CV
+-   ⏸ Interview Preparation
 -   Exercises and Projects
 -   Resources
 
@@ -80,6 +80,7 @@
 -   #### Terminal
     -   Revisar el truco de la primera seccion (es, en)
 -   #### Code editors
+    -   Cambiar origen de la foto (es, en)
     -   Revisar y remplazar video jonmircha (es)
     -   Agregar video tutorial (en)
     -   Cambiar origen de la imagen (en, es)
@@ -116,6 +117,7 @@
     -   Agregar mas recursos (es, en)
     -   Agregar video sobre let y var (en)
     -   Agregar video sobre recursion (en)
+    -   Cambiar videos sobre JavaScript de recursos a tutoriales (es)
 -   #### Jquery
 -   #### Git
     -   Verificación para un solo directorio (es, en)

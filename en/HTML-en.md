@@ -123,7 +123,7 @@ Currently, it's in its fifth version (**HTML5**), which has introduced a host of
 
 ## Exercises and Projects
 
-Typically, exercises that involve both **HTML** and **CSS** are used for practice. However, here's a simple exercise to start with: **[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)**.
+Typically, exercises that involve both **HTML** and **CSS** are used for practice. However, here's a simple exercise to start with: **[Learn HTML by Building a Cat Photo App - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)**.
 
 ## Conclusion
 

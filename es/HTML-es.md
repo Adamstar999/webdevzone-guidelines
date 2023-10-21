@@ -12,12 +12,12 @@ En este video, a pesar de su duración, descubrirás cómo utilizar **HTML**. Ob
 
 ## Recursos
 
--   Descubre una página que te brinda iconos e imágenes en formato **SVG** de forma gratuita: **https://www.svgrepo.com/**
--   Explora una página que presenta una tabla de etiquetas **HTML**, inspirada en la tabla periódica de elementos químicos: **https://madebymike.github.io/html5-periodic-table/**
--   Explora un **CDN** gratuito y de código abierto en **https://cdnjs.com/**. Si tienes dudas sobre qué es un **CDN**, este video lo explica de manera detallada: **https://www.youtube.com/watch?v=_RSP3wagz7c&t=215s**.
+-   Descubre una página que te brinda iconos e imágenes en formato **SVG** de forma gratuita: **[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)**
+-   Explora una página que presenta una tabla de etiquetas **HTML**, inspirada en la tabla periódica de elementos químicos: **[Periodic Table of HTML elements](https://madebymike.github.io/html5-periodic-table/)**
+-   Explora un **CDN** gratuito y de código abierto en **[cdnjs](https://cdnjs.com/)**. Si tienes dudas sobre qué es un **CDN**, este video lo explica de manera detallada: **[Qué es una CDN y para qué sirve una Red de distribución de contenidos](https://www.youtube.com/watch?v=_RSP3wagz7c)**.
 -   Sumérgete en estas páginas que ofrecen consejos sobre las mejores prácticas de **HTML** y **CSS**:
-    -   **https://codeguide.co/**
-    -   **https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t**
+    -   **[Code Guide by @mdo](https://codeguide.co)**
+    -   **[30 HTML Best Practices for Beginners](https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t)**
 
 ## Consejos, Trucos y Buenas Prácticas
 
@@ -55,7 +55,7 @@ En este video, a pesar de su duración, descubrirás cómo utilizar **HTML**. Ob
 
 -   Restringe el empleo de la etiqueta `<iframe>` a un máximo de 2 por página para evitar posibles impactos adversos en el rendimiento.
 
--   Para agilizar las etiquetas `<iframe>` procedentes de YouTube, puedes aprovechar el sitio web **https://tube.rvere.com/**. Este sitio carga las dependencias requeridas para reproducir el video únicamente cuando presionas el botón de reproducción, en lugar de cargarlas al abrir la página. Obtendrás un código que deberás sustituir en lugar de tu `<iframe>` actual.
+-   Para agilizar las etiquetas `<iframe>` procedentes de YouTube, puedes aprovechar el sitio web **[Fast Youtube Embed Generator](https://tube.rvere.com)**. Este sitio carga las dependencias requeridas para reproducir el video únicamente cuando presionas el botón de reproducción, en lugar de cargarlas al abrir la página. Obtendrás un código que deberás sustituir en lugar de tu `<iframe>` actual.
 
 -   Recuerda que en un documento **HTML** solo debe existir un elemento `<h1>`.
 
@@ -71,11 +71,11 @@ En este video, a pesar de su duración, descubrirás cómo utilizar **HTML**. Ob
 
 -   Ten en cuenta que aunque la etiqueta `<i>` tradicionalmente se usaba para dar énfasis al texto, posteriormente también se adoptó para representar iconos. La etiqueta `<em>` es ahora ampliamente aceptada como la etiqueta para el énfasis.
 
--   Asegúrate de que tu teléfono esté conectado a la misma red que tu computadora. Luego, en la terminal, escribe `ipconfig` y busca la **Dirección IPv4**. Copia esta dirección IP y pégala en la barra de direcciones de tu navegador, junto al puerto que el servidor en vivo (Live Server) haya asignado a tu servidor. Por ejemplo: `192.168.0.230:5500`. Si esto no funciona, te recomiendo seguir las instrucciones detalladas en este video: **https://www.youtube.com/watch?v=uRYHX4EwYYA&list=PLAsr4GZLmdlpfr1V07-pii_d_DDbyI9IA&index=97**.
+-   Asegúrate de que tu teléfono esté conectado a la misma red que tu computadora. Luego, en la terminal, escribe `ipconfig` y busca la **Dirección IPv4**. Copia esta dirección IP y pégala en la barra de direcciones de tu navegador, junto al puerto que el servidor en vivo (Live Server) haya asignado a tu servidor. Por ejemplo: `192.168.0.230:5500`. Si esto no funciona, te recomiendo seguir las instrucciones detalladas en este video: **[How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)**.
 
 -   El favicon solo es funcional en navegadores de escritorio y no en dispositivos móviles. Si deseas que funcione en móviles, utiliza `<link rel="apple-touch-icon" href="img/favicon.png">`.
 
--   En general, es preferible emplear imágenes en formato **SVG** o **WEBP** en tu sitio web en lugar de **PNG** o **JPG**. Las razones son amplias, por lo que te dejo un artículo que profundiza en este tema: **https://ed.team/blog/que-imagenes-debes-usar-en-tu-web-jpg-png-svg-o-webp**.
+-   En general, es preferible emplear imágenes en formato **SVG** o **WEBP** en tu sitio web en lugar de **PNG** o **JPG**. Las razones son amplias, por lo que te dejo un artículo que profundiza en este tema: **[¿Qué imágenes debes usar en tu web? ¿JPG, PNG, SVG o WEBP? | EDteam](https://ed.team/blog/que-imagenes-debes-usar-en-tu-web-jpg-png-svg-o-webp)**.
 
 -   Evita abusar de la etiqueta `<div>` y en su lugar, utilize etiquetas semánticas como `<main>`, `<section>`, `<article>`, entre otras. Esto contribuirá a mantener un código más limpio y estructurado.
 
@@ -124,7 +124,7 @@ En este video, a pesar de su duración, descubrirás cómo utilizar **HTML**. Ob
 
 ## Ejercicios y Proyectos
 
-Generalmente, se realizan ejercicios que combinan **HTML** con **CSS**. Sin embargo, aquí ya puedes comenzar con este ejercicio más simple: **[Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)**.
+Generalmente, se realizan ejercicios que combinan **HTML** con **CSS**. Sin embargo, aquí ya puedes comenzar con este ejercicio más simple: **[Learn HTML by Building a Cat Photo App - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)**.
 
 ## Conclusión
 

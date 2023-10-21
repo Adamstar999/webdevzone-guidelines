@@ -162,7 +162,7 @@ With **CSS**, you can establish rules that instruct your website on how to prese
 
 ## Exercises and Projects
 
--   **[FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** provides a course with practical exercises and offers a widely recognized certification.
+-   **[Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** provides a course with practical exercises and offers a widely recognized certification.
     <!-- Add some exercises -->
     <!-- My copy of Super Mario Bros Wonder -->
 

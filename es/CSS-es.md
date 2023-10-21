@@ -21,7 +21,6 @@ En esta serie de videos principal acerca de **CSS**, tendrás todo lo necesario 
 
 Además, te proporciono una serie de videos que, si bien no son obligatorios, te ayudarán a agilizar el aprendizaje y a obtener una comprensión más profunda de ciertos aspectos de **CSS**:
 
--   **[¡El programa que TODO DESARROLLADOR debería tener INSTALADO! 🔨 9 utilidades en 1 para el día a día](https://www.youtube.com/watch?v=kVQguYQ5IsA)**
 -   **[CSS Grid vs Flexbox - Cuando usar uno u otro.](https://www.youtube.com/watch?v=6qko7Nbe8YA)**
 -   **[APRENDE a usar la METODOLOGÍA BEM](https://www.youtube.com/watch?v=6LUz0MnNCiA)**
 -   **[APRENDE a usar AFTER y BEFORE en CSS](https://www.youtube.com/watch?v=VsYqbdBOP50)**
@@ -37,27 +36,27 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
     -   **[Generador de gráficos circulares](https://bennettfeely.com/csspiechart/)**
     -   **[Clip de imágenes](https://bennettfeely.com/clippy/)**
     -   **[Filtros para imágenes en CSS](https://bennettfeely.com/image-effects/)**
--   Descubre una página que te ofrece iconos **CSS** predefinidos: **https://css.gg/app**.
--   Aquí puedes visualizar fuentes de diversos estilos y tamaños para después exportarlas a tu código **CSS**: **https://typescale.com**.
--   Esta página te brinda una mejor comprensión del diseño responsivo y cómo aplicarlo en tus proyectos: **https://utopia.fyi/blog**
--   Aquí encontrarás diversos diseños y patrones de **CSS** para implementar en tu página web: **https://www.magicpattern.design/tools**.
--   Puedes utilizar una página que te ayuda a generar los prefijos necesarios para cada propiedad **CSS**: **https://autoprefixer.github.io**.
--   Esta página te permite minificar cualquier código **CSS** para reducir su tamaño: **https://www.tutorialsteacher.com/tools/css-minifier**.
--   Utiliza este convertidor de píxeles a ems, que también te permite establecer una fuente base: **http://pxtoem.com**.
--   Explora estas dos páginas para descubrir una amplia gama de colores, paletas y crear gradientes. Una se centra en colores estándar: **https://hue.tools/info**, y la otra en gradientes: **https://cssgradient.io**.
--   Accede a **Google Fonts** para seleccionar entre una amplia variedad de fuentes para tu sitio web. Sin embargo, recuerda no abusar de demasiadas fuentes, ya que esto puede afectar negativamente el rendimiento: **https://fonts.google.com**.
--   Explora ejemplos prácticos de media queries y diseño responsivo en esta página: **https://mediaqueri.es**.
--   Sumérgete en el contenido de este desarrollador Front-End que ofrece consejos valiosos y herramientas útiles, como un generador de sombras en **CSS** y más: **https://www.joshwcomeau.com**.
+-   Descubre una página que te ofrece iconos **CSS** predefinidos: **[App - CSS Icons](https://css.gg/app)**.
+-   Aquí puedes visualizar fuentes de diversos estilos y tamaños para después exportarlas a tu código **CSS**: **[Type Scale - A Visual Calculator](https://typescale.com)**.
+-   Esta página te brinda una mejor comprensión del diseño responsivo y cómo aplicarlo en tus proyectos: **[Blog | Utopia](https://utopia.fyi/blog/)**
+-   Aquí encontrarás diversos diseños y patrones de **CSS** para implementar en tu página web: **[Tools for designers & frontend developers](https://www.magicpattern.design/tools)**.
+-   Puedes utilizar una página que te ayuda a generar los prefijos necesarios para cada propiedad **CSS**: **[Autoprefixer CSS online](https://autoprefixer.github.io)**.
+-   Esta página te permite minificar cualquier código **CSS** para reducir su tamaño: **[CSS Minifier](https://www.tutorialsteacher.com/tools/css-minifier)**.
+-   Utiliza este convertidor de píxeles a ems, que también te permite establecer una fuente base: **[PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com)**.
+-   Explora estas dos páginas para descubrir una amplia gama de colores, paletas y crear gradientes. Una se centra en colores estándar: **[hue.tools – info](https://hue.tools/info)**, y la otra en gradientes: **[CSS Gradient — Generator, Maker, and Background](https://cssgradient.io)**
+-   Accede a **[Google Fonts](https://fonts.google.com)** para seleccionar entre una amplia variedad de fuentes para tu sitio web. Sin embargo, recuerda no abusar de demasiadas fuentes, ya que esto puede afectar negativamente el rendimiento.
+-   Explora ejemplos prácticos de media queries y diseño responsivo en esta página: **[Media Queries](https://mediaqueri.es)**.
+-   Sumérgete en el contenido de este desarrollador Front-End que ofrece consejos valiosos y herramientas útiles, como un generador de sombras en **CSS** y más: **[Josh W Comeau](https://www.joshwcomeau.com)**.
 -   Estas páginas te ofrecen consejos sobre las mejores prácticas de **HTML** y **CSS**:
-    -   **https://codeguide.co/**
-    -   **https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t**
-    -   **https://github.com/airbnb/css**
-    -   **https://github.com/necolas/idiomatic-css**
-    -   **https://cssguidelin.es/#anatomy-of-a-ruleset**
+    -   **[Code Guide by @mdo](https://codeguide.co)**
+    -   **[30 HTML Best Practices for Beginners](https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t)**
+    -   **[airbnb/css: A mostly reasonable approach to CSS and Sass.](https://github.com/airbnb/css)**
+    -   **[necolas/idiomatic-css: Principles of writing consistent, idiomatic CSS.](https://github.com/necolas/idiomatic-css)**
+    -   **[CSS Guidelines (2.2.5)](https://cssguidelin.es)**
 
 ## Consejos, Trucos y Buenas Prácticas
 
--   Al imprimir el contenido de páginas web, puedes aprovechar una media query que te permite personalizar los estilos y el contenido **HTML** para que se apliquen al imprimir. Si deseas aprender cómo utilizarla, te recomiendo este video tutorial: **https://www.youtube.com/watch?v=CAgLAeykOyU**.
+-   Al imprimir el contenido de páginas web, puedes aprovechar una media query que te permite personalizar los estilos y el contenido **HTML** para que se apliquen al imprimir. Si deseas aprender cómo utilizarla, te recomiendo este video tutorial: **[Print Styles: CSS Tutorial (Day 6 of CSS3 in 30 Days)](https://www.youtube.com/watch?v=CAgLAeykOyU)**.
 
 -   Comúnmente, se utilizan los siguientes puntos de interrupción según la resolución del dispositivo:
 
@@ -114,13 +113,13 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
 
 -   Limita el uso de un sistema de color en el proyecto actual para mantener una estructura de colores más ordenada.
 
--   Si necesitas extraer algún código de color de una imagen o de algún programa en tu computadora, puedes utilizar este programa: **https://download.cnet.com/quick-html-color-picker/3001-2192_4-10400979.html**.
+-   Si necesitas extraer algún código de color de una imagen o de algún programa en tu computadora, puedes utilizar este programa: **[Thank you for downloading Quick HTML Color Picker from CNET Download.com](https://download.cnet.com/quick-html-color-picker/3001-2192_4-10400979.html)**.
 
 -   En **Visual Studio Code**, puedes cambiar el formato del color colocando el cursor sobre el cuadro de color y haciendo clic en el valor que se encuentra arriba del cuadro. Este valor cambiará de formato con cada clic.
 
--   Las **DevTools** de **Chrome** cuentan con una función llamada _CSS Overview_ que te permite visualizar todos los estilos simplificados de una página. Esto incluye colores, tipografías y _media queries_ utilizadas en la página web. Aquí tienes una guía detallada sobre cómo utilizarla: **https://developer.chrome.com/docs/devtools/css-overview/**.
+-   Las **DevTools** de **Chrome** cuentan con una función llamada _CSS Overview_ que te permite visualizar todos los estilos simplificados de una página. Esto incluye colores, tipografías y _media queries_ utilizadas en la página web. Aquí tienes una guía detallada sobre cómo utilizarla: **[CSS Overview: Identify potential CSS improvements](https://developer.chrome.com/docs/devtools/css-overview/)**.
 
--   A veces, al hacer scroll o al ir a una sección específica de tu página, el encabezado pegado en la parte superior puede ocultar ciertos elementos al principio de la sección. Para solucionarlo, puedes asignar un margen a esa sección para cuando el usuario esté en ella. Utiliza la propiedad `scroll-margin-top` y asigna el valor de margen que desees aplicar. Aquí tienes un ejemplo: **https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top**.
+-   A veces, al hacer scroll o al ir a una sección específica de tu página, el encabezado pegado en la parte superior puede ocultar ciertos elementos al principio de la sección. Para solucionarlo, puedes asignar un margen a esa sección para cuando el usuario esté en ella. Utiliza la propiedad `scroll-margin-top` y asigna el valor de margen que desees aplicar. Aquí tienes un ejemplo: **[scroll-margin-top - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top)**.
 
 -   Emplea propiedades lógicas como `inline` y `block`. Dado que no todos los idiomas siguen la dirección izquierda a derecha del inglés, es crucial contar con un modo de escritura adaptable. Las propiedades lógicas permiten brindar apoyo a idiomas que pueden escribirse en sentido horizontal (como árabe, hebreo y urdu) o vertical (como chino, japonés y coreano). Además, suelen ser más breves y sencillas de redactar:
 
@@ -153,9 +152,9 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
     }
     ```
 
--   Evita `@import`, ya que puede ralentizar la carga, añadir solicitudes adicionales y generar problemas inesperados. Es más recomendable importar hojas de estilo con la etiqueta `<link>` en el **HTML** o mediante el uso de preprocesadores. Aquí tienes un artículo que lo explica: **http://www.loretahur.net/AprendiendoCSS/atributos-“import-vs-link”/**.
+-   Evita `@import`, ya que puede ralentizar la carga, añadir solicitudes adicionales y generar problemas inesperados. Es más recomendable importar hojas de estilo con la etiqueta `<link>` en el **HTML** o mediante el uso de preprocesadores. Aquí tienes un artículo que lo explica: **[Atributos: “@import vs link” – Aprendiendo CSS](http://www.loretahur.net/AprendiendoCSS/atributos-“import-vs-link”/)**.
 
--   Para mejorar la legibilidad, sigue un orden estructurado al declarar propiedades **CSS**. Puedes encontrar el orden sugerido en esta página: **https://markdotto.com/2011/11/29/css-property-order/**.
+-   Para mejorar la legibilidad, sigue un orden estructurado al declarar propiedades **CSS**. Puedes encontrar el orden sugerido en esta página: **[CSS property order | @mdo](https://markdotto.com/2011/11/29/css-property-order/)**.
 
 -   Para lograr que toda la multimedia de tu página web sea flexible y se adapte al tamaño de su contenedor, puedes emplear la siguiente regla **CSS** (aunque hay otras formas según tus necesidades):
 
@@ -183,7 +182,7 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES](https://www.youtube.com/watch?v=HH_SMpxV7qQ)**
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES #2](https://www.youtube.com/watch?v=1Lv8mJczfpg)**
 -   **[Peaky blinders-page con Html y Css](www.youtube.com/watch?v=ArhSODreNHc)**
--   **[FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
+-   **[Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
 <!-- Mi copia de Super Mario Bros Wonder -->
 
 ## Conclusión

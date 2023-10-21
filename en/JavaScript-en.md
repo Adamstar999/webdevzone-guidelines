@@ -121,13 +121,13 @@ You now have the opportunity to delve into learning this language and its applic
 -   Regular expressions are fundamental for finding words or terms in any text. However, using them can be tedious, and it's easy to forget them if you don't use them often. That's why I'm providing you with a reference syntax sheet of regular expressions and exercises from FreeCodeCamp for practice purposes:
 
     -   **[Regular Expressions Syntax Reference Sheet](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)**
-    -   **[Exercises with Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)**
+    -   **[Exercises with Regular Expressions - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)**
 
 ## Exercises and Projects
 
 -   **[Exercism](https://exercism.org)** is an excellent platform for developing and honing your programming efficiency and logic in various languages. They offer over 140 programming exercises in the **JavaScript** section.
 
--   **[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** provides a course with practical exercises and offers a widely recognized certification.
+-   **[JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** provides a course with practical exercises and offers a widely recognized certification.
 
 ## Conclusion
 

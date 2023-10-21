@@ -24,8 +24,8 @@ Cuando se trata de dominar y aprender **JavaScript**, es importante tener en cue
 
 -   Páginas de consejos y buenas prácticas de **JavaScript**:
 
-    -   **https://code.tutsplus.com/es/24-javascript-best-practices-for-beginners--net-5399t**
-    -   **https://github.com/airbnb/javascript**
+    -   **[24 buenas prácticas de JavaScript para principiantes](https://code.tutsplus.com/es/24-javascript-best-practices-for-beginners--net-5399t)**
+    -   **[airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)**
 
 -   Aquí tienes una selección de videos relacionados con **JavaScript**, enfocados en buenas prácticas y consejos para programar de manera efectiva:
     -   **[¡Aprende los nuevos métodos de Array para JavaScript!](https://www.youtube.com/watch?v=TJKAGh9jzx4)**
@@ -132,9 +132,9 @@ Cuando se trata de dominar y aprender **JavaScript**, es importante tener en cue
 
 ## Ejercicios y Proyectos
 
--   En **[Exercism](https://exercism.org)** puedes desarrollar y mejorar tu logica y eficacia de programacion en cualquier lenguaje. En el apartado de **JavaScript** te ofrecen mas de 140 ejercicios de programacion.
+-   En **[Exercism](https://exercism.org/tracks/javascript/exercises)** puedes desarrollar y mejorar tu logica y eficacia de programacion en cualquier lenguaje. En el apartado de **JavaScript** te ofrecen mas de 140 ejercicios de programacion.
 
--   **[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
+-   **[JavaScript Algorithms and Data Structures - FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
 
 ## Conclusión
 
