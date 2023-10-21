@@ -25,7 +25,7 @@ While I won't rule out the possibility of adding more content on other libraries
 ## Resources
 
 -   This image illustrates an advisable way to organize the folders in your **React** projects:
-    ![React Project Structure](./assets/React%20SRC.jpg)
+    ![React Project Structure](../assets/React%20SRC.jpg)
 
 ## Tips, Tricks, and Best Practices
 

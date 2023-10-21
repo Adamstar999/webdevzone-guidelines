@@ -6,9 +6,19 @@
 
 Currently, it's in its fifth version (**HTML5**), which has introduced a host of new features compared to the early days of the internet.
 
+We'll also delve into **Emmet**. This handy extension for code editors accelerates the process of writing and editing various formats like **HTML**, **XML**, **XSL**, and more. Through content assistance, **Emmet** enables quick and efficient editing of **HTML** and **CSS** code using abbreviations.
+
+For website developers dealing with **HTML** files, a basic editor might not suffice. Especially for Front-end development, **Emmet** plays a crucial role in boosting productivity. This plugin employs short abbreviations to generate extensive **HTML** and **CSS** code structures, allowing for the swift creation of complex content. Although optional, **Emmet** can significantly enhance productivity and efficiency when working with **HTML** and **CSS** code.
+
 ## Tutorial
 
+### HTML
+
 <!-- Add a Video tutorial -->
+
+### Emmet
+
+-   **[Learn Emmet In 15 Minutes - Double Your HTML Coding Speed](https://www.youtube.com/watch?v=V8vizNQKtx0)**
 
 ## Resources
 
@@ -17,6 +27,8 @@ Currently, it's in its fifth version (**HTML5**), which has introduced a host of
 -   Explore a website that presents a table of **HTML** tags, inspired by the periodic table of chemical elements: **https://madebymike.github.io/html5-periodic-table/**
 
 -   Access a free and open-source **CDN** at **https://cdnjs.com/**. If you're unsure about what a **CDN** is, this video explains it in a simple way: **https://www.youtube.com**
+
+-   Here is the reference cheat sheet for **Emmet**: **[Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)**.
 
 -   Dive into these websites that provide tips and best practices for **HTML** and **CSS**:
     -   **https://codeguide.co/**

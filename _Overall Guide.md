@@ -8,17 +8,12 @@
 -   Make some small projects for each tecnology to demonstrate and practice;
 -   Follow the web procedure;
 -   Create a route system for the languages Spanish and English so depending on the route the content renders in spanish or in english (different content depending on the language);
--   Make a light and a night theme;
+-   Make a light and a night theme
+-   Add a way to my page for contacting me if there is any gramatical or functional issue
 
 ### Content:
 
--   Add a Part to the web design;
--   Add to all links the name of the video or the name of the page;
--   Add FreeCodeCamp Certificates to the sections;
--   Add TypeScript in the future;
--   Add Material Design content from the youtube channel
 -   Make general questions for each technology for knowledge and interviews
--   Add a way to my page for contacting me if there is any gramatical or functional issue
 
 ## Main Parts
 
@@ -27,8 +22,8 @@
 -   ✅ Introduction
 -   ✅ Code editors
 -   ✅ Markdown
--   ✅ Content Compilation and Organization
 -   ✅ Terminal
+-   ✅ Content Compilation and Organization
 -   ⏸ Internet
 -   ✅ HTML
 -   ✅ CSS
@@ -62,7 +57,6 @@
 -   ⏸ Web Procedure
 -   ⏸ CV
 -   ⏸ Interview Preparation
--   Exercises and Projects
 -   Resources
 
 ### Only in Spanish
@@ -75,18 +69,14 @@
     -   Agregar https://developer.chrome.com/docs/devtools/ (es, en)
     -   Agregar Full Stack Open
     -   Cambia los titulos de las secciones a mas simples (es)
-    -   Fusionar las secciones de Code Editors, Terminal y Markdown
-    -   Fusionar jQuery con JavaScript Frameworks
+    -   Cambiar nombre en los apartados (en, es)
+    -   Fusionar las secciones de Code Editors, Terminal y Markdown (es, en)
+    -   Fusionar jQuery con JavaScript Frameworks (es, en)
+    -   Sugerir mas canales de YouTube (es, en)
 -   #### Terminal
-    -   Revisar el truco de la primera seccion (es, en)
 -   #### Code editors
-    -   Cambiar origen de la foto (es, en)
-    -   Revisar y remplazar video jonmircha (es)
-    -   Agregar video tutorial (en)
-    -   Cambiar origen de la imagen (en, es)
 -   #### Markdown
-    -   Agregar video tutorial (en)
-    -   Agregar recursos guia (en)
+-   #### Initial Setup
 -   #### Content Compilation and Organization
     -   Cambiar para la creación de archivos (es)
     -   Añadir imagenes explicativas a la recapitulación (es, en)
@@ -110,8 +100,6 @@
     -   Agregar ejercicios (en, es)
     -   Cambiar la parte de caniuse a recursos (es, en)
 -   #### Emmet
-    -   Revisar y remplazar video jonmircha (es)
-    -   Agregar video tutorial (en)
 -   #### JavaScript
     -   Agregar video tutorial (en)
     -   Agregar mas recursos (es, en)

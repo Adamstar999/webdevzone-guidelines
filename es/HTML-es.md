@@ -4,17 +4,32 @@
 
 **HTML**, siglas en inglés de _**HyperText Markup Language**_ (‘lenguaje de marcado de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código **HTML**) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.
 
+También trataremos sobre **Emmet**. Esta es una extensión para editores de código que optimiza la velocidad de codificación y edición en **HTML**, **XML**, **XSL** y otros formatos de código estructurado. Con la asistencia que brinda, **Emmet** te permite escribir y editar código **HTML** y **CSS** de manera rápida y eficiente mediante abreviaciones.
+
+Para los desarrolladores de páginas web que trabajan con archivos **HTML**, un simple editor de texto a veces no es suficiente. Especialmente en el desarrollo frontend, **Emmet** representa un avance significativo para aumentar la productividad. Este _plugin_ aprovecha pequeñas abreviaciones para generar estructuras de código **HTML** y **CSS** de mayor envergadura, permitiéndote crear contenido complejo con rapidez y facilidad. Aunque **Emmet** es opcional, puede mejorar significativamente la eficiencia y productividad al escribir código **HTML** y **CSS**.
+
+Te recomiendo primero completar todo el contenido sobre **HTML** y practicar con él. Después de sentirte cómodo con **HTML**, puedes comenzar a aprender y utilizar **Emmet**. Probablemente sea más fácil de esa manera.
+
 ## Tutorial
+
+### HTML
 
 En este video, a pesar de su duración, descubrirás cómo utilizar **HTML**. Obtendrás consejos, conocerás buenas prácticas y accederás a valiosos recursos. Aunque extenso, es una fuente completa e imprescindible para dar inicio a tu aventura en el mundo del desarrollo web:
 
 -   **[Curso HTML & CSS (1/5): Fundamentos HTML - jonmircha](https://www.youtube.com/watch?v=-oK6zL01fNM)**
+
+### Emmet
+
+En el video, la sección de **Emmet** comienza después de 2 horas, 33 minutos y 30 segundos. Es una referencia al mismo video que se mencionó en la sección de los editores de código.
+
+-   **[Curso Visual Studio Code & Emmet - jonmircha](https://www.youtube.com/watch?v=KpgVF0mXOUs&t=9210s)**
 
 ## Recursos
 
 -   Descubre una página que te brinda iconos e imágenes en formato **SVG** de forma gratuita: **[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)**
 -   Explora una página que presenta una tabla de etiquetas **HTML**, inspirada en la tabla periódica de elementos químicos: **[Periodic Table of HTML elements](https://madebymike.github.io/html5-periodic-table/)**
 -   Explora un **CDN** gratuito y de código abierto en **[cdnjs](https://cdnjs.com/)**. Si tienes dudas sobre qué es un **CDN**, este video lo explica de manera detallada: **[Qué es una CDN y para qué sirve una Red de distribución de contenidos](https://www.youtube.com/watch?v=_RSP3wagz7c)**.
+-   Aquí tienes la hoja de referencia completa sobre **Emmet**: **[Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)**.
 -   Sumérgete en estas páginas que ofrecen consejos sobre las mejores prácticas de **HTML** y **CSS**:
     -   **[Code Guide by @mdo](https://codeguide.co)**
     -   **[30 HTML Best Practices for Beginners](https://webdesign.tutsplus.com/30-html-best-practices-for-beginners--net-4957t)**

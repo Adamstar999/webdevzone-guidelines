@@ -125,6 +125,6 @@ Aqui dejo varios listados sobre todos los recursos usados ya sean videos, pagina
 ## Extra
 
 -   **[Guía de la Terminal](./assets/Bash-es.md)**
--   **[VSCode Shortcuts](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)**
+
 - **[Estructura de Proyectos con React](./assets/React%20SRC.jpg)**
 ```

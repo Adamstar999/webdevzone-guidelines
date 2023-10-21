@@ -1,29 +1,62 @@
-# Editores de Código
+# Configuración Inicial
 
 ## Introducción
 
-Los editores de código son herramientas esenciales para cualquier desarrollador. Permiten modificar el código fuente en varios lenguajes de programación y brindan diversas funciones para simplificar el trabajo y mejorar la eficiencia.
+En esta sección, abordaremos las herramientas iniciales para comenzar el desarrollo front-end.
 
-Es importante hacer una distinción entre editores de código y **IDE** (_Entorno de Desarrollo Integrado_). Los editores para el desarrollo web son generalmente programas ligeros o editores en línea que proporcionan lo esencial para una experiencia de desarrollo efectiva y productiva, sin complicaciones. Aunque también puedes usar un **IDE** para el desarrollo web.
+### Visual Studio Code
 
-Sin embargo, los editores actuales tienen la capacidad de expandirse considerablemente a través de complementos, lo que puede llevarlos a niveles de sofisticación similares a los de los **IDE**.
+Los editores de código son esenciales para cualquier desarrollador. Permiten modificar el código fuente en varios lenguajes de programación y proporcionan funciones para simplificar el trabajo y mejorar la eficiencia.
 
-En el ámbito de la programación, existen numerosos editores de código entre los cuales puedes investigar y elegir el que más te agrade. Si te falta conocimiento o sientes indecisión en este asunto, permíteme presentarte una opción muy recomendable. En esta sección, vamos a tratar sobre **Visual Studio Code**, que destaca por su facilidad de uso y una amplia gama de funcionalidades. Otros editores igualmente buenos son **Sublime Text** y **Vim**. Sin embargo, **Sublime Text** es de pago, y **Vim** puede ser complicado de aprender al principio, pero una vez dominado puede aumentar significativamente tu eficiencia en la manipulación de texto mediante el teclado.
+Es importante distinguir entre editores de código y **IDE** (_Entorno de Desarrollo Integrado_). Los editores para el desarrollo web son generalmente programas ligeros o editores en línea que ofrecen lo esencial para una experiencia de desarrollo efectiva y productiva, sin complicaciones. Aunque también puedes optar por un **IDE** para el desarrollo web.
+
+Hoy en día, los editores tienen la capacidad de expandirse considerablemente a través de complementos, lo que puede llevarlos a niveles de sofisticación similares a los de los **IDE**.
+
+En el ámbito de la programación, hay numerosos editores de código entre los cuales puedes investigar y elegir el que más te guste. Si te falta conocimiento o sientes indecisión en este asunto, permíteme presentarte una opción muy recomendable. En esta sección, trataremos sobre **Visual Studio Code**, que destaca por su facilidad de uso y una amplia gama de funcionalidades. Otros editores igualmente buenos son **Sublime Text** y **Vim**. Sin embargo, **Sublime Text** es de pago, y **Vim** puede ser complicado de aprender al principio, pero una vez dominado, puede aumentar significativamente tu eficiencia en la manipulación de texto mediante el teclado.
+
+### Markdown
+
+**Markdown** es un lenguaje de marcado ligero desarrollado en 2004 por John Gruber. Su objetivo principal es lograr una legibilidad óptima y una facilidad de publicación. Este lenguaje se inspiró en numerosas convenciones existentes para marcar mensajes de correo electrónico mediante texto plano. **Markdown** permite aplicar formato y estilo al texto plano mediante una serie de caracteres especiales de manera sencilla y efectiva.
+
+Esta sección es opcional pero sumamente útil, ya que te permitirá escribir notas de diversa índole de manera organizada y atractiva. Además de admitir contenido en **HTML**, también podrás insertar y interpretar código.
+
+### Terminal
+
+La terminal o consola se refiere comúnmente a la interfaz de usuario de línea de comandos: una pantalla (generalmente con fondo negro y letras blancas) donde al escribir comandos (secuencias de palabras especiales) instruimos al sistema a llevar a cabo acciones específicas. Te proporcionaré guías y tutoriales específicos para usar el lenguaje de terminal **Bash**. Este es muy similar al de **Linux** y también se encuentra en **macOS**.
 
 ## Tutorial
 
-Comenzaremos con un video que te brindará una comprensión completa sobre el uso de **Visual Studio Code**, además de proporcionarte valiosos consejos y trucos. Te recomiendo omitir las secciones de _Control de versiones con **Git**_ y _Debugger, el depurador de **VSCode**_, ya que abordaremos esos temas en otras secciones. Además, no es necesario seguir todos los pasos detallados, la mayoría son opcionales. Este video está bien estructurado y es breve, lo que lo convierte en una introducción perfecta. Sin más preámbulos, aquí tienes el enlace al video:
+### Visual Studio Code
 
--   **[Aprende VS Code ahora! | curso completo de VSCode desde CERO](https://www.youtube.com/watch?v=Ei1y51K8jQk)**
+Comenzaremos con un video que te brindará una comprensión completa sobre el uso de **Visual Studio Code**, además de proporcionarte valiosos consejos y trucos. Te recomiendo omitir lo que se encuentra después de la marca de 2 horas, 33 minutos y 30 segundos, ya que lo abordaremos en secciones posteriores. Además, no es necesario seguir todos los pasos detallados, la mayoría son opcionales. Este video está bien estructurado y es conciso, lo que lo convierte en una introducción perfecta. Sin más preámbulos, aquí tienes el enlace al video:
+
+-   **[Curso Visual Studio Code & Emmet - jonmircha](www.youtube.com/watch?v=KpgVF0mXOUs)**
 
 También te proporciono otro video que será útil una vez hayas utilizado **Visual Studio Code** por un tiempo. En este video, aprenderás a aplicar configuraciones personalizadas:
 
 -   **[Cómo configurar VSCode para que sea ASOMBROSO! 😎🤓 | Extensiones, Tips y temas](https://www.youtube.com/watch?v=HiVnGgYudLY)**
 
+### Markdown
+
+-   **[Curso Markdown - jonmircha](https://www.youtube.com/watch?v=FlsoBiteuPM)**
+
+### Terminal
+
+-   **[¿Qué es una terminal? - Terminal en español - Terminal de Linux](https://terminaldelinux.com/terminal/introduccion/que-es-terminal/)**
+-   **[Curso Terminal - jonmircha](https://www.youtube.com/watch?v=Pi0KVD4xTbc)**
+
 ## Recursos
 
--   Esta imagen muestra todos los atajos de teclado disponibles en **Visual Studio Code**:
-    ![VSCode Shortcuts](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
+-   Aquí están los atajos de teclado para **Visual Studio Code**:
+
+    -   **[Atajos de Teclado VSCode para Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)**
+    -   **[Atajos de Teclado VSCode para macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)**
+
+-   Una página que ofrece un resumen conciso para cuando desees repasar rápidamente el formato: **[Markdown 🦊 jonmircha](https://jonmircha.com/markdown)**
+
+-   Una guía completa sobre el formato **Markdown**, en caso de que necesites realizar tareas más avanzadas o desees tener una referencia más extensa. Puedes encontrarla aquí: **[markdown](https://joedicastro.com/pages/markdown.html)**
+
+-   Una guía resumida de comandos de **Bash** creada por mí: **[Guía de la Terminal](../assets/Bash-es.md)**
 
 ## Consejos, Trucos y Buenas Prácticas
 
@@ -45,6 +78,7 @@ También te proporciono otro video que será útil una vez hayas utilizado **Vis
     | Ctrl + F4                             | Cerrar el archivo actual                    |
     | Ctrl + H                              | Buscar y reemplazar                         |
     | Ctrl + K + P (Ctrl + Tab)             | Seleccionar archivos abiertos               |
+    | Ctrl + W                              | Cierra el archivo actual                    |
     | Ctrl + K + W                          | Cerrar todos los archivos abiertos          |
     | Ctrl + P                              | Seleccionar un archivo del directorio       |
     | Ctrl + Right/Left                     | Moverse entre palabras                      |
@@ -70,7 +104,7 @@ También te proporciono otro video que será útil una vez hayas utilizado **Vis
 
 -   El término "Snippet" se utiliza en programación para referirse a fragmentos pequeños y reutilizables de código fuente, código binario o texto. Existen Snippets predefinidos para casi todas las tecnologías, creados por la comunidad, que puedes encontrar en la sección de extensiones. Si deseas personalizar uno, sigue estos pasos: Presiona `Ctrl + Shift + P`, luego selecciona `Snippets: Configure User Snippets`, escribe el lenugaje al que deseas aplicar el Snippet. Encontrarás una breve explicación allí.
 
--   Las extensiones pueden agilizar significativamente el proceso de desarrollo. Aquí te presento algunas que te serán útiles en el desarrollo web:
+-   Las extensiones pueden agilizar significativamente el proceso de desarrollo. Aquí te presento algunas que te serán útiles en el desarrollo web para **Visual Studio Code**:
     -   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
     -   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**
     -   **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)**
@@ -78,4 +112,4 @@ También te proporciono otro video que será útil una vez hayas utilizado **Vis
 
 ## Conclusión
 
-Y eso es todo en cuanto al editor de código. Ahora cuentas con las herramientas y el conocimiento necesarios para comenzar a practicar la escritura de código y mejorar significativamente tu velocidad al programar.
+¡Perfecto! Ahora posees las herramientas y el conocimiento necesario para iniciar la práctica de la escritura de código y mejorar significativamente tu velocidad al programar en el desarrollo _front-end_.
