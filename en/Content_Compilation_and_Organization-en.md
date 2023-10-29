@@ -8,9 +8,13 @@ Start by creating a dedicated folder for your courses, whether they're about a l
 
 Equally important is keeping your project and exercise code well-organized. Create a separate folder specifically for this purpose.
 
-<!-- Add the review and images -->
+Another related piece of advice would be to check the descriptions of the exercises or project videos I'll provide you with and download the project folders. This way, you can execute the code and see how the project looks, which will help resolve any doubts you have. Of course, avoid checking the source code too much, as this could diminish the value of your personal effort and slow down the learning process.
 
-I recommend keeping all this data in a synchronized cloud folder (as long as it's not too large). This way, any changes you make will be automatically updated, and in case something happens to your PC, you can easily recover the data. You can choose any cloud storage service, but personally, I recommend **Mega**. It offers a generous 50 GB of free storage and a lot of customization options. If you're unsure how to set up your storage in **Mega**, here's a helpful video tutorial: **https://www.youtube.com**.
+So, in summary, it's advisable to create separate folders for course code and guides, projects and exercises, and additional items like default styles or personal programming-related data. Here's an example of how I've organized it:
+
+![Programming folder structure](../assets/Programming%20Folders%20Structure%20EN.jpg)
+
+I recommend keeping all this data in a synchronized cloud folder (as long as it's not too large). This way, any changes you make will be automatically updated, and in case something happens to your PC, you can easily recover the data. You can choose any cloud storage service, but personally, I recommend **Mega**. It offers a generous 50 GB of free storage and a lot of customization options. If you're unsure how to set up your storage in **Mega**, here's a helpful video tutorial: **[How to Download MegaSync and Create Mega Account](www.youtube.com/watch?v=wdmmrzrr_XA)**. I recommend using the synchronization option for a specific folder. This way, any changes you make in that folder will be applied to the cloud folder.
 
 If you come across any English descriptions or texts that you don't fully understand, I can provide effective explanations. While Google Translator is decent, it can be imprecise depending on the context. Nowadays, the best option is using artificial intelligence for translation.
 

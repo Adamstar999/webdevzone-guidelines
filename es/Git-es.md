@@ -10,9 +10,12 @@ Para esta guía, dejaremos de lado **BitBucket**, ya que es la menos popular y o
 
 ## Tutorial
 
-Comenzaré por compartir contigo un video que explica las diferencias entre **GitHub** y **GitLab**, junto con sus respectivos cursos para aprender a usarlos. Si estás indeciso sobre cuál elegir o no tienes ninguna preferencia específica en este momento, te recomendaría optar por **GitHub**. Es un poco más popular y ampliamente utilizado en el ámbito casual, y su conjunto de herramientas más simple lo hace más fácil y rápido de aprender:
+Comenzaré por compartir contigo un video que explica las diferencias entre **GitHub** y **GitLab**. Si estás indeciso sobre cuál elegir o no tienes ninguna preferencia específica en este momento, te recomendaría optar por **GitHub**. Es un poco más popular y ampliamente utilizado en el ámbito casual, y su conjunto de herramientas más simple lo hace más fácil y rápido de aprender:
 
 -   **[GitHub vs GitLab | PlatziLive](https://www.youtube.com/watch?v=EscDe0jG6XM)**
+
+Y aquí tienes los respectivos cursos según la plataforma que hayas elegido:
+
 -   **[Curso Git & GitHub - jonmircha](https://www.youtube.com/watch?v=suzMNqDQiyU)**
 -   **[Aprende Git y GitLab desde cero con este curso para principiantes, tutorial paso a paso 2023](https://www.youtube.com/watch?v=6NREQqA5wHE)**
 
@@ -27,9 +30,11 @@ Comenzaré por compartir contigo un video que explica las diferencias entre **Gi
 -   Para cambiar el usuario registrado en la computadora actual, ejecuta estos dos comandos:
 
     ```bash
-    git config --global user.name "NombreDeUsuarioGithub"
-    git config --global user.email CorreoDeGithub@gmail.com
+    git config --global user.name "NombreDeUsuarioGitHub"
+    git config --global user.email CorreoDeGitHub@gmail.com
     ```
+
+    Si en el repositorio en el que te encuentras ahora necesitas cambiar de usuario para poder hacer push, no necesitas cambiarlo a nivel global. Simplemente en la terminal del directorio del repositorio, ingresa los mismos comandos pero sin la opción de `--global`. Esto hará que solo en ese directorio se utilice el usuario que has asignado en lugar de aplicarlo globalmente.
 
 -   Personalmente, la secuencia que suelo seguir desde la inicialización hasta la primera publicación de un repositorio es la siguiente:
 
@@ -50,9 +55,12 @@ Comenzaré por compartir contigo un video que explica las diferencias entre **Gi
 -   Si ya has hecho la primera publicación, la siguiente vez solo necesitas escribir `git push` a menos que desees hacerlo en otra rama.
 
 -   Para subir un repositorio privado, sigue estos pasos:
-    1. Ingresa a tu perfil de Github, ve a Ajustes > Ajustes de desarrollador > Tokens de acceso personal > Tokens (classic).
+
+    1. Ingresa a tu perfil de **GitHub**, ve a _Ajustes > Ajustes de desarrollador > Tokens de acceso personal > Tokens (classic)_.
     2. Genera un token, establece la fecha de caducidad y asegúrate de guardarlo en un lugar seguro, como un archivo de texto, ya que perderás acceso si no lo haces.
     3. Al hacer push al repositorio, agrega este enlace al remoto en lugar del convencional: `git remote add origin https://Usuario:Token@github.com/usuario/repositorio.git`. Con esto, deberías poder hacer push al repositorio sin problemas.
+
+-   Al principio, trabajar con **Git** puede parecer difícil, pero te acostumbrarás. La mejor práctica que puedes adoptar es subir cualquier proyecto o ejercicio que realices a **GitHub** o **GitLab**. Así estarás practicando constantemente el flujo de trabajo de una aplicación con **Git**.
 
 ## Conclusión
 

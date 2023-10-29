@@ -43,7 +43,9 @@ Additionally, here's some extra content about **Visual Studio Code**:
 
 ### Terminal
 
--   **[Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://www.freecodecamp.org/news/command-line-for-beginners/#console)**
+-   **[How to Install Git Bash on Windows 10](https://www.youtube.com/watch?v=qdwWe9COT9k)**
+
+-   **[Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://tutorials.codebar.io/command-line/introduction/tutorial.html)**
 
 -   **[Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)**
 
@@ -79,10 +81,9 @@ Additionally, here's some extra content about **Visual Studio Code**:
     | Ctrl + D                              | Select current word                         |
     | Ctrl + D, Ctrl + D (Multiple times)   | Select and edit next occurrence             |
     | Ctrl + F                              | Search                                      |
-    | Ctrl + F4                             | Close current file                          |
+    | Ctrl + F4 (Ctrl + W)                  | Close current file                          |
     | Ctrl + H                              | Search and replace                          |
     | Ctrl + K + P (Ctrl + Tab)             | Select open file                            |
-    | Ctrl + W                              | Close the current file                      |
     | Ctrl + K + W                          | Close all open files                        |
     | Ctrl + P                              | Select file in opened directory             |
     | Ctrl + Right/Left                     | Move between words                          |
@@ -110,10 +111,13 @@ Additionally, here's some extra content about **Visual Studio Code**:
 
 -   Extensions can significantly optimize the development process. Here are some that will aid you in web development:
 
-    -   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
-    -   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**
-    -   **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)**
-    -   **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+    -   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** is an extension that allows you to load any web page and apply changes in real-time. It's an essential tool for web development.
+
+    -   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** facilitates the process of changing the name of tags. If you modify the opening tag name, it will automatically change the closing tag name.
+
+    -   **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)** allows you to see syntax errors directly on the line, making it easier to identify errors.
+
+    -   **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** formats your code after every save, so you won't have to worry about writing more organized code.
 
 ## Conclusion
 

@@ -2,7 +2,9 @@
 
 ## Introducción
 
-**HTML**, siglas en inglés de _**HyperText Markup Language**_ (‘lenguaje de marcado de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código **HTML**) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.
+**HTML**, que son las siglas en inglés de _HyperText Markup Language_ (‘lenguaje de marcado de hipertexto’), se refiere al lenguaje de marcado utilizado para crear páginas web. Este lenguaje establece un estándar para la construcción de páginas web en varias versiones. Define una estructura fundamental y un conjunto de códigos, conocidos como código **HTML**, para la definición de contenido en una página web. Esto abarca elementos como texto, imágenes, videos, juegos, entre otros.
+
+Actualmente estamos en la quinta versión, conocida como **HTML5**, la cual trajo consigo muchas novedades en comparación con las primeras etapas de Internet.
 
 También trataremos sobre **Emmet**. Esta es una extensión para editores de código que optimiza la velocidad de codificación y edición en **HTML**, **XML**, **XSL** y otros formatos de código estructurado. Con la asistencia que brinda, **Emmet** te permite escribir y editar código **HTML** y **CSS** de manera rápida y eficiente mediante abreviaciones.
 
@@ -29,6 +31,7 @@ En el video, la sección de **Emmet** comienza después de 2 horas, 33 minutos y
 -   Descubre una página que te brinda iconos e imágenes en formato **SVG** de forma gratuita: **[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)**
 -   Explora una página que presenta una tabla de etiquetas **HTML**, inspirada en la tabla periódica de elementos químicos: **[Periodic Table of HTML elements](https://madebymike.github.io/html5-periodic-table/)**
 -   Explora un **CDN** gratuito y de código abierto en **[cdnjs](https://cdnjs.com/)**. Si tienes dudas sobre qué es un **CDN**, este video lo explica de manera detallada: **[Qué es una CDN y para qué sirve una Red de distribución de contenidos](https://www.youtube.com/watch?v=_RSP3wagz7c)**.
+-   Si alguna vez tienes dudas acerca de la compatibilidad de una funcionalidad de **HTML** o **CSS** en distintos navegadores, puedes verificarlo en el sitio **[Can I use](https://caniuse.com/)**.
 -   Aquí tienes la hoja de referencia completa sobre **Emmet**: **[Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)**.
 -   Sumérgete en estas páginas que ofrecen consejos sobre las mejores prácticas de **HTML** y **CSS**:
     -   **[Code Guide by @mdo](https://codeguide.co)**
@@ -86,9 +89,9 @@ En el video, la sección de **Emmet** comienza después de 2 horas, 33 minutos y
 
 -   Ten en cuenta que aunque la etiqueta `<i>` tradicionalmente se usaba para dar énfasis al texto, posteriormente también se adoptó para representar iconos. La etiqueta `<em>` es ahora ampliamente aceptada como la etiqueta para el énfasis.
 
--   Asegúrate de que tu teléfono esté conectado a la misma red que tu computadora. Luego, en la terminal, escribe `ipconfig` y busca la **Dirección IPv4**. Copia esta dirección IP y pégala en la barra de direcciones de tu navegador, junto al puerto que el servidor en vivo (Live Server) haya asignado a tu servidor. Por ejemplo: `192.168.0.230:5500`. Si esto no funciona, te recomiendo seguir las instrucciones detalladas en este video: **[How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)**.
+-   Para probar tus páginas web en tu móvil, asegúrate de que tu teléfono esté conectado a la misma red que tu computadora. Luego, en la terminal, escribe `ipconfig` y busca la **Dirección IPv4**. Copia esta dirección IP y pégala en la barra de direcciones de tu navegador, junto al puerto que el servidor en vivo (Live Server) haya asignado a tu servidor. Por ejemplo: `192.168.0.230:5500`. Si esto no funciona, te recomiendo seguir las instrucciones detalladas en este video: **[Visualizar proyecto (página web simple HTML, CSS, JS) en tu celular con Live Server](https://www.youtube.com/watch?v=KJIYBbhUOic)**.
 
--   El favicon solo es funcional en navegadores de escritorio y no en dispositivos móviles. Si deseas que funcione en móviles, utiliza `<link rel="apple-touch-icon" href="img/favicon.png">`.
+-   El funcionamiento del favicon esta limitado en dispositivos móviles. Si deseas que funcione en móviles, utiliza `<link rel="apple-touch-icon" href="img/favicon.png">`.
 
 -   En general, es preferible emplear imágenes en formato **SVG** o **WEBP** en tu sitio web en lugar de **PNG** o **JPG**. Las razones son amplias, por lo que te dejo un artículo que profundiza en este tema: **[¿Qué imágenes debes usar en tu web? ¿JPG, PNG, SVG o WEBP? | EDteam](https://ed.team/blog/que-imagenes-debes-usar-en-tu-web-jpg-png-svg-o-webp)**.
 
@@ -116,7 +119,7 @@ En el video, la sección de **Emmet** comienza después de 2 horas, 33 minutos y
 
 -   Siempre añade el atributo de idioma `<lang>` a la etiqueta `<html>`. Esto ayuda a las herramientas de síntesis de voz a determinar las pronunciaciones adecuadas y a las herramientas de traducción a aplicar las reglas correctas.
 
--   La etiqueta `<title>` debe tener entre 55 y 65 caracteres, mientras que la etiqueta `<meta name="description">` no debe exceder los 165 caracteres para un óptimo posicionamiento de la página.
+-   Para un mejor posicionamiento en la página web, es recomendable que la etiqueta `<title>` tenga entre 55 y 65 caracteres, mientras que la etiqueta `<meta name="description">` no debe exceder los 165 caracteres.
 
 -   Para una legibilidad óptima del código, los atributos de los elementos **HTML** deben seguir este orden específico:
 
@@ -128,10 +131,6 @@ En el video, la sección de **Emmet** comienza después de 2 horas, 33 minutos y
     6. role, aria-
     7. tabindex
     8. style
-
-<!-- -   Verifica la accesibilidad de tu sitio web utilizando **[Page Speed Insights](https://pagespeed.web.dev)** para garantizar una experiencia de usuario óptima. -->
-
-<!-- -   Si alguna vez tienes dudas acerca de la compatibilidad de una funcionalidad de **HTML** o **CSS** en distintos navegadores, puedes verificarlo en el sitio **https://caniuse.com/**. -->
 
 -   Utiliza el atributo `tabindex="0"` para crear elementos interactivos que se puedan navegar con la tecla Tab, sin alterar el orden de tabulación actual.
 

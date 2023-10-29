@@ -10,7 +10,7 @@ With **CSS**, you can establish rules that instruct your website on how to prese
 
 ## Tutorial
 
-<!-- Add a Video tutorial -->
+-   **[HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)**
 
 ## Resources
 
@@ -22,6 +22,7 @@ With **CSS**, you can establish rules that instruct your website on how to prese
     -   **[Image clipper](https://bennettfeely.com/clippy/)**
     -   **[CSS image filters](https://bennettfeely.com/image-effects/)**
 -   Discover a page offering predefined **CSS** icons: **https://css.gg/app**.
+-   Si alguna vez tienes dudas acerca de la compatibilidad de una funcionalidad de **HTML** o **CSS** en distintos navegadores, puedes verificarlo en el sitio **[Can I use](https://caniuse.com/)**.
 -   Visualize fonts of different styles and sizes and export them as **CSS** code at **https://typescale.com**.
 -   Gain a deeper understanding of responsive design and its application in your projects through **https://utopia.fyi/blog**.
 -   Find various **CSS** designs and patterns to implement at **https://www.magicpattern.design/tools**.
@@ -163,7 +164,8 @@ With **CSS**, you can establish rules that instruct your website on how to prese
 ## Exercises and Projects
 
 -   **[Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** provides a course with practical exercises and offers a widely recognized certification.
-    <!-- Add some exercises -->
+-   **[HTML & CSS PROJECT YouTube Playlist](https://www.youtube.com/playlist?list=PLImJ3umGjxdD3ov2lwg0SM5rxz5v9FjOf)**
+-   **[Build a responsive website with HTML & CSS](https://www.youtube.com/playlist?list=PL4-IK0AVhVjNDRHoXGort7sDWcna8cGPA)**
     <!-- My copy of Super Mario Bros Wonder -->
 
 ## Conclusion

@@ -4,9 +4,9 @@
 
 **CSS**, cuyas siglas en inglés significan Hojas de Estilo en Cascada (_Cascading Style Sheets_), es un lenguaje que gobierna el diseño y la presentación de las páginas web, determinando su apariencia cuando los usuarios las visitan. Trabaja en conjunto con **HTML**, que maneja el contenido fundamental de los sitios.
 
-El término _en cascada_ se emplea debido a que puedes tener múltiples hojas de estilo, y una puede heredar propiedades de otras.
+El término "en cascada" se emplea porque todas las ejecuciones son procesadas de arriba a abajo, creando un efecto de cascada.
 
-Mediante **CSS**, puedes establecer reglas para indicar a tu sitio web cómo mostrar la información y separar las instrucciones para los elementos de estilo (como tipografías, colores y tamaños) de aquellas que configuran el contenido.
+Mediante **CSS**, puedes establecer reglas para indicar a tu sitio web cómo mostrar la información y los elementos, como tipografías, colores y tamaños. La versión actual es **CSS3**.
 
 ## Tutorial
 
@@ -37,6 +37,7 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
     -   **[Clip de imágenes](https://bennettfeely.com/clippy/)**
     -   **[Filtros para imágenes en CSS](https://bennettfeely.com/image-effects/)**
 -   Descubre una página que te ofrece iconos **CSS** predefinidos: **[App - CSS Icons](https://css.gg/app)**.
+-   Si alguna vez tienes dudas acerca de la compatibilidad de una funcionalidad de **HTML** o **CSS** en distintos navegadores, puedes verificarlo en el sitio **[Can I use](https://caniuse.com/)**.
 -   Aquí puedes visualizar fuentes de diversos estilos y tamaños para después exportarlas a tu código **CSS**: **[Type Scale - A Visual Calculator](https://typescale.com)**.
 -   Esta página te brinda una mejor comprensión del diseño responsivo y cómo aplicarlo en tus proyectos: **[Blog | Utopia](https://utopia.fyi/blog/)**
 -   Aquí encontrarás diversos diseños y patrones de **CSS** para implementar en tu página web: **[Tools for designers & frontend developers](https://www.magicpattern.design/tools)**.
@@ -171,18 +172,16 @@ Además, te proporciono una serie de videos que, si bien no son obligatorios, te
     }
     ```
 
-<!-- -   Si alguna vez tienes dudas acerca de la compatibilidad de una funcionalidad de **HTML** o **CSS** en distintos navegadores, puedes verificarlo en el sitio **https://caniuse.com/**. -->
-
 -   Evita utilizar la unidad de medida _viewport_ para establecer un ancho de `100vw` en elementos, ya que esto podría causar desbordamientos horizontales, problemas en dispositivos pequeños y resultados inesperados en el diseño. Es preferible optar por unidades relativas como porcentajes, `em's` o `rem's`.
 
 -   **Desktop First** y **Mobile First** son las dos estrategias principales del diseño responsivo para adaptar el contenido al tamaño de la pantalla. **Mobile First** se centra en dispositivos con pantallas más pequeñas, mientras que **Desktop First** se enfoca en las de mayor tamaño. En el diseño responsivo, es recomendable utilizar **Mobile First**, ya que prioriza la experiencia en dispositivos móviles, mejorando la velocidad de carga y la usabilidad en pantallas pequeñas. Luego, puedes expandir progresivamente el diseño para dispositivos más grandes, lo que resulta en una adaptabilidad eficiente y efectiva.
 
 ## Ejercicios y Proyectos
 
+-   **[Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES](https://www.youtube.com/watch?v=HH_SMpxV7qQ)**
 -   **[💻 COMO crear una PAGINA WEB en HTML y CSS [PASO A PASO] Adaptable a DISPOSITIVOS MÓVILES #2](https://www.youtube.com/watch?v=1Lv8mJczfpg)**
 -   **[Peaky blinders-page con Html y Css](www.youtube.com/watch?v=ArhSODreNHc)**
--   **[Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)** te ofrece un curso con ejercicios practicos y con un certificado ampliamente reconocido.
 <!-- Mi copia de Super Mario Bros Wonder -->
 
 ## Conclusión

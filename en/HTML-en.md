@@ -14,7 +14,7 @@ For website developers dealing with **HTML** files, a basic editor might not suf
 
 ### HTML
 
-<!-- Add a Video tutorial -->
+-   **[Learn HTML – Full Tutorial for Beginners (2022)](https://www.youtube.com/watch?v=kUMe1FH4CHE)**
 
 ### Emmet
 
@@ -26,7 +26,10 @@ For website developers dealing with **HTML** files, a basic editor might not suf
 
 -   Explore a website that presents a table of **HTML** tags, inspired by the periodic table of chemical elements: **https://madebymike.github.io/html5-periodic-table/**
 
--   Access a free and open-source **CDN** at **https://cdnjs.com/**. If you're unsure about what a **CDN** is, this video explains it in a simple way: **https://www.youtube.com**
+-   Access a free and open-source **CDN** at **https://cdnjs.com/**. If you're unsure about what a **CDN** is, this videos explains it in a simple way:
+
+-   **[What Is A CDN? How Does It Work?](https://www.youtube.com/watch?v=RI9np1LWzqw)**
+-   **[How to Use Font Awesome Icon on HTML Website using CDN - Complete Tutorial](https://www.youtube.com/watch?v=ihTB-aZ-Msk)**
 
 -   Here is the reference cheat sheet for **Emmet**: **[Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)**.
 
@@ -86,7 +89,7 @@ For website developers dealing with **HTML** files, a basic editor might not suf
 
 -   Use `<em>` for emphasizing text rather than `<i>`. `<i>` is now widely accepted for representing icons.
 
--   To test your website on your phone, ensure it's connected to the same network as your computer. Type `ipconfig` in the terminal, find the **IPv4 Address**, and enter this IP address along with your server's port in your phone's browser. For example, `192.168.0.230:5500`. If this doesn't work, follow the instructions in this video: **https://www.youtube.com/watch?v=uRYHX4EwYYA&list=PLAsr4GZLmdlpfr1V07-pii_d_DDbyI9IA&index=97**.
+-   To test your website on your phone, ensure it's connected to the same network as your computer. Type `ipconfig` in the terminal, find the **IPv4 Address**, and enter this IP address along with your server's port in your phone's browser. For example, `192.168.0.230:5500`. If this doesn't work, follow the instructions in this video: **https://www.youtube.com/watch?v=uRYHX4EwYYA**.
 
 -   Favicon functionality is limited to desktop browsers and not mobile devices. To enable favicons on mobile websites, add this additional tag to your `<head>` section: `<link rel="apple-touch-icon" href="img/favicon.png">`.
 

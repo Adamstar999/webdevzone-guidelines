@@ -20,15 +20,15 @@ Cuando se trata de dominar y aprender **JavaScript**, es importante tener en cue
 
 -   **[Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)**
 
+-   También te dejo una selección de videos relacionados con **JavaScript**, enfocados en buenas prácticas y consejos para programar de manera efectiva:
+    -   **[¡Aprende los nuevos métodos de Array para JavaScript!](https://www.youtube.com/watch?v=TJKAGh9jzx4)**
+
 ## Recursos
 
 -   Páginas de consejos y buenas prácticas de **JavaScript**:
 
     -   **[24 buenas prácticas de JavaScript para principiantes](https://code.tutsplus.com/es/24-javascript-best-practices-for-beginners--net-5399t)**
     -   **[airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)**
-
--   Aquí tienes una selección de videos relacionados con **JavaScript**, enfocados en buenas prácticas y consejos para programar de manera efectiva:
-    -   **[¡Aprende los nuevos métodos de Array para JavaScript!](https://www.youtube.com/watch?v=TJKAGh9jzx4)**
 
 ## Consejos, Trucos y Buenas Prácticas
 

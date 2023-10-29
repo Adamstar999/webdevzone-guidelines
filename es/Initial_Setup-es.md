@@ -75,10 +75,9 @@ También te proporciono otro video que será útil una vez hayas utilizado **Vis
     | Ctrl + D                              | Seleccionar la palabra actual               |
     | Ctrl + D, Ctrl + D (Multiples veces)  | Seleccionar y editar palabras siguientes    |
     | Ctrl + F                              | Buscar                                      |
-    | Ctrl + F4                             | Cerrar el archivo actual                    |
+    | Ctrl + F4 (Ctrl + W)                  | Cerrar el archivo actual                    |
     | Ctrl + H                              | Buscar y reemplazar                         |
     | Ctrl + K + P (Ctrl + Tab)             | Seleccionar archivos abiertos               |
-    | Ctrl + W                              | Cierra el archivo actual                    |
     | Ctrl + K + W                          | Cerrar todos los archivos abiertos          |
     | Ctrl + P                              | Seleccionar un archivo del directorio       |
     | Ctrl + Right/Left                     | Moverse entre palabras                      |
@@ -105,10 +104,14 @@ También te proporciono otro video que será útil una vez hayas utilizado **Vis
 -   El término "Snippet" se utiliza en programación para referirse a fragmentos pequeños y reutilizables de código fuente, código binario o texto. Existen Snippets predefinidos para casi todas las tecnologías, creados por la comunidad, que puedes encontrar en la sección de extensiones. Si deseas personalizar uno, sigue estos pasos: Presiona `Ctrl + Shift + P`, luego selecciona `Snippets: Configure User Snippets`, escribe el lenugaje al que deseas aplicar el Snippet. Encontrarás una breve explicación allí.
 
 -   Las extensiones pueden agilizar significativamente el proceso de desarrollo. Aquí te presento algunas que te serán útiles en el desarrollo web para **Visual Studio Code**:
-    -   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
-    -   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**
-    -   **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)**
-    -   **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+
+    -   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** es una extensión que te permite cargar cualquier página web y aplicar cambios en tiempo real, una herramienta esencial en el desarrollo web.
+
+    -   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** facilita el proceso de cambiar el nombre de las etiquetas. Si modificas el nombre de la etiqueta de apertura, automáticamente cambiará el nombre de la etiqueta de cierre.
+
+    -   **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)** te permite ver los errores de sintaxis directamente en la línea, lo que facilita la identificación de errores.
+
+    -   **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** formatea tu código después de cada guardado, por lo que no tendrás que preocuparte por escribir un código más organizado.
 
 ## Conclusión
 

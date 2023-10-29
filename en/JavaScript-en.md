@@ -16,7 +16,8 @@ You now have the opportunity to delve into learning this language and its applic
 
 ## Tutorial
 
-<!-- Add a Video tutorial -->
+-   **[Modern JavaScript From The Beginning | First 12 Hours](https://www.youtube.com/watch?v=BI1o2H9z9fo)**
+-   **[Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)**
 
 ## Resources
 
@@ -40,7 +41,7 @@ You now have the opportunity to delve into learning this language and its applic
 
 -   Avoid using `eval()` in your code as it can reduce performance and pose a security risk by granting excessive privileges to evaluated text.
 
--   Always use the `let` keyword instead of `var` when declaring variables. For a concise explanation, you can watch this video on YouTube: **https://www.youtube.com**.
+-   Always use the `let` keyword instead of `var` when declaring variables. For a concise explanation, you can watch this video on YouTube: **[JavaScript Let vs Var vs Constant | Mosh](https://www.youtube.com/watch?v=XgSjoHgy3Rk)**.
 
 -   Commenting code may seem unnecessary at first, but it's crucial. Imagine returning to your project after months and struggling to remember the purpose of each code fragment. Moreover, consider that another programmer may need to review your work; without comments, they could get lost. So, comments are very valuable.
 
@@ -114,9 +115,7 @@ You now have the opportunity to delve into learning this language and its applic
     // b = 8
     ```
 
--   You can create loops using recursion, which is a more complex and efficient way to iterate. To apply recursion, you must create a function that calls itself within and that has a condition that stops the recursive calling at the beginning of the function. Since it's a complicated topic, here are some resources to learn more about it:
-
-      <!-- Add video about recursion -->
+-   You can create loops using recursion, which is a more complex and efficient way to iterate. To apply recursion, you must create a function that calls itself within and that has a condition that stops the recursive calling at the beginning of the function. Since it's a complicated topic, here are some resources to learn more about it: **[What Is Recursion - In Depth](https://www.youtube.com/watch?v=6oDQaB2one8)**.
 
 -   Regular expressions are fundamental for finding words or terms in any text. However, using them can be tedious, and it's easy to forget them if you don't use them often. That's why I'm providing you with a reference syntax sheet of regular expressions and exercises from FreeCodeCamp for practice purposes:
 

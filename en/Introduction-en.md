@@ -1,4 +1,4 @@
-# Introduction to Web Development
+# Introduction
 
 If you're interested in learning about programming, specifically web development, you're in the right place. Here, you'll find all the information you need to start your journey in web development. I'll provide you with important details and helpful resources to guide you towards becoming a web developer. Whether you want to work on your own or for a company, this page has you covered. Just remember, this page doesn't offer a complete course. It's here to gather and organize existing courses so you don't have to search and feel overwhelmed.
 
@@ -43,28 +43,22 @@ Now that you have this context, let's start organizing what you should learn. De
 ### Front-end
 
 -   Introduction
--   Code Editors
--   Markdown
+-   Initial Setup
 -   Content Compilation and Organization
 -   Internet
--   Terminal
 -   HTML
 -   CSS
--   Emmet
 -   JavaScript
--   JQuery
 -   Git
 -   JavaScript Compilation
 -   JavaScript Frameworks
 -   CSS Frameworks
 -   CSS Processing
--   Figma
 
 ### Additional Content
 
--   Web Security
+-   Figma
 -   SEO
--   Extra Tools
 -   Web Procedure
 -   CV
 -   Interview Preparation
@@ -84,6 +78,21 @@ Lastly, I'd like to offer you some additional content to enhance the agility and
 -   **[DevDocs](https://devdocs.io)**: A thorough documentation resource dedicated to each framework, library, tool, or language in the programming world.
 
 -   **[WebDev](https://web.dev/learn/)**: This page is ideal for learning both basic and advanced concepts about web development.
+
+-   This is the official guide from Google about Chrome Developer Tools: **[Chrome DevTools](https://developer.chrome.com/docs/devtools/)**.
+
+-   **[Full Stack Open](https://fullstackopen.com/en/)** is dedicated to teaching you the entire field of web development. It's similar to this page, but it has its drawbacks. For example, it lacks visual resources and is entirely text-based.
+
+-   Here are some YouTube channels focused on programming:
+    -   **[freeCodeCamp.org](https://www.youtube.com/@freecodecamp)**
+    -   **[Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)**
+    -   **[Kevin Powell](https://www.youtube.com/@KevinPowell)**
+    -   **[DesignCourse](https://www.youtube.com/@DesignCourse)**
+    -   **[Programming with Mosh](https://www.youtube.com/@programmingwithmosh)**
+    -   **[Material Design](https://www.youtube.com/@MaterialDesign)**
+    -   **[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)**
+    -   **[Fireship](https://www.youtube.com/@Fireship)**
+    -   **[Coder Coder](https://www.youtube.com/@TheCoderCoder)**
 
 ## Conclusion
 

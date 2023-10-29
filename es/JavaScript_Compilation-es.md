@@ -16,14 +16,18 @@ Para empezar, necesitarás descargar **Node.js**, el compilador que permite ejec
 
 Para obtener una guía detallada sobre qué es **Node.js** y **npm**, cómo instalarlos y gestionar dependencias, te recomiendo los siguientes videos:
 
--   **[¿Qué es npm y cómo usarlo?](https://youtube.com)**
--   **[Cómo descargar Node.js](https://youtube.com)**
+-   **[¿Que es NPM y como utilizarlo? Guía Rápida](https://www.youtube.com/watch?v=4aNA8ZHihFE)**
+-   **[¿Javascript en el backend? 🤯 ¿Qué es Node.js?](https://www.youtube.com/watch?v=EsKJlhWs1XY)**
 
 ### Herramientas de Compilación
 
-Estas herramientas te permiten empaquetar módulos, es decir, generar un archivo único que contiene todos los módulos necesarios para que tu aplicación funcione. También posibilitan añadir funciones adicionales, agilizan el proceso de desarrollo y facilitan la conversión entre diferentes lenguajes. Por ejemplo, puedes incluir todos tus archivos **JavaScript** en uno solo, e incluso agregar archivos de estilos. Existen varias herramientas, desde las más simples y limitadas hasta las más complejas y flexibles.
+Estas herramientas te permiten empaquetar módulos, es decir, generar un archivo único que contiene todos los módulos necesarios para que tu aplicación funcione. También posibilitan añadir funciones adicionales, agilizan el proceso de desarrollo y facilitan la conversión entre diferentes lenguajes. Por ejemplo, puedes incluir todos tus archivos **JavaScript** en uno solo, e incluso agregar archivos de estilos. Existen varias herramientas, desde las más simples y limitadas hasta las más complejas y flexibles. Aquí te dejo un video introductorio a este tipo de herramientas: **[JavaScript Moderno: Introducción - Bundlers y Herramientas](https://www.youtube.com/watch?v=Ztds-N7Y64U)**.
 
-Ten en cuenta que esta información será más útil una vez que la relaciones con la siguiente sección. Sin embargo, te sugiero que te familiarices con estas herramientas y elijas la que mejor se adapte a tus necesidades. Te ofrezco dos videos, uno que explica las diferencias entre las herramientas más comunes, sus ventajas y desventajas, y cómo iniciar proyectos con cada una de ellas: **[⚛️ REACT 2023: Todas las opciones para comenzar - jonmircha](https://www.youtube.com/watch?v=lH96nhwaMWY)**. El segundo video es opcional y trata sobre la herramienta **Webpack**. Aunque es similar, no proporciona plantillas prediseñadas y requiere configuración desde cero. Puedes optar por esta opción, pero ten en cuenta que será más complejo, ya que deberás realizar más trabajo para poner en marcha tus proyectos. Por otro lado, **Webpack** te brindará un mayor entendimiento sobre el funcionamiento interno de estas herramientas. Aquí está el video: **[Curso de Webpack - jonmircha](https://www.youtube.com/watch?v=-bp3q-YTr4Q)**.
+Ten en cuenta que esta información será más útil una vez que la relaciones con la siguiente sección. Sin embargo, te sugiero que te familiarices con estas herramientas y elijas la que mejor se adapte a tus necesidades:
+
+-   **Webpack** es un empaquetador de módulos que te permite generar un archivo único con todos los módulos necesarios para que tu aplicación funcione. Para darte una idea, te permite incluir todos tus archivos **JavaScript** en un único archivo, e incluso puedes incluir archivos de estilos en el mismo archivo, llamado **bundle.js**. Además, se pueden realizar otras tareas de optimización de los códigos, como la minificación y la compresión. En este caso, con **Webpack**, puedes gestionar todas tus dependencias, pero no tendrás ninguna configuración por defecto y tendrás que gestionarlo todo tú mismo. Es más complicado de usar, pero mucho más libre y flexible. Si te interesa aprenderlo, te dejo un video tutorial: **[Curso de Webpack - jonmircha](https://www.youtube.com/watch?v=-bp3q-YTr4Q)**.
+
+-   A veces, configurar todas las dependencias en **Webpack** puede volverse tedioso. Por eso, han surgido muchas herramientas que ofrecen plantillas al crear un nuevo proyecto. También muchas de ellas proporcionan otras funciones y posibilidades. Te dejo un video para que puedas entender su implementación y sus diferencias si deseas utilizar una opción diferente a **Webpack**: **[⚛️ REACT 2023: Todas las opciones para comenzar - jonmircha](https://www.youtube.com/watch?v=lH96nhwaMWY)**.
 
 ## Conclusión
 
